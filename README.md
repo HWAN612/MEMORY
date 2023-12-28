@@ -1,1 +1,2 @@
-# MEMORY
+# TIL
+# Today I Learned
